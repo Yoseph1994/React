@@ -1,9 +1,9 @@
 import React from "react";
 
-function SayHelloDest({ name }) {
+function SayHelloDest({ placeHolderName }) {
   return (
     <div>
-      <p>Hello, {name}</p>
+      <p>Hello, {placeHolderName}</p>
     </div>
   );
 }

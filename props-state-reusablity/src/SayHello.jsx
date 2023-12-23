@@ -1,7 +1,7 @@
 function SayHello(props) {
   return (
     <div>
-      <p>Hello, {props.name}</p>
+      <p>Hello, {props.placeHolderName}</p>
     </div>
   );
 }

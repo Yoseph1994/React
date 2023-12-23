@@ -1,14 +1,17 @@
 import "./App.css";
 import SayHello from "./SayHello";
 import SayHelloDest from "./SayHelloDest";
+import StateExample from "./StateExample";
 
 function App() {
+  const placeHolderName = "Josi";
   return (
     <div>
-      <p>Lets, understand props</p>
-      <SayHello name="Josi" />
+      <SayHello placeHolderName={placeHolderName} />
       <p>Lets, understand prop destructuring</p>
-      <SayHelloDest name="Josi" />
+      <SayHelloDest placeHolderName={placeHolderName} />
+      {/* <p>Lets Understand some state before easy project</p> */}
+      <StateExample placeHolderName={placeHolderName} />
     </div>
   );
 }
