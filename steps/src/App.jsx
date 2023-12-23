@@ -7,9 +7,17 @@ function App() {
     setHandleClose(!handleClose);
     setHandleCloseText(handleClose ? "Show" : "Hide");
   }
+
+  const messages = [
+    "Learn React ⚛️",
+    "Apply for jobs 💼",
+    "Invest your new income 🤑",
+  ];
   return (
     <>
-      <button onClick={onSetChangeClose}>{handleCloseText}</button>
+      <button onClick={onSetChangeClose} className="close">
+        {handleCloseText}
+      </button>
       {handleClose && (
         <div className="steps">
           <div className="numbers">
@@ -17,9 +25,9 @@ function App() {
             <div className="step-2">2</div>
             <div className="step-3">3</div>
           </div>
-          <p className="message"></p>
+          <p className="message">{messages[0]}</p>
           <div className="buttons">
-            <button className="previous">Previous</button>
+            <button className="button previous">Previous</button>
             <button className="next">Next</button>
           </div>
         </div>
