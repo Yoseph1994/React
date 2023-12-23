@@ -10,11 +10,12 @@ function Steps({ messages }) {
   }
 
   function onNext() {
-    setStep(step < messages.length ? step + 1 : 0);
+    if (step < 2) setStep((prev) => prev + 1);
   }
 
   function onPrevious() {
-    setStep(step >= 0 ? step - 1 : 0);
+    // if (step < 0) setStep(0);
+    if (step > 0) setStep((prev) => prev - 1);
   }
   return (
     <>
