@@ -22,7 +22,7 @@ Follow these steps to install and run this Movie Web App:
 
 1. Clone the repository:
 
-   git clone https://github.com/React/Yoseph1994/popcorn.git
+   git clone https://github.com/Yoseph1994/React/tree/main/popcorn
 
 2. Navigate to the project directory:
     
