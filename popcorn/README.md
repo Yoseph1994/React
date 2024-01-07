@@ -1,7 +1,5 @@
 # Movie Web App
 
-![Movie Web App]()
-
 The Movie Web App is a web application that allows users to search for movies, add them to a watched list, and rate them. It is built using the Vite framework, which provides fast and efficient development for modern web applications.
 
 ## Features
@@ -42,7 +40,12 @@ Follow these steps to install and run this Movie Web App:
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to submit a pull request.
 
 ## Developer
-*** Yoseph Shimelis Regassa ***
-*** 0966741303 ***
-*** Buy Me a Coffe ☕, *** ** 1000551726677 (Commercial Bank of Ethiopia **
-** Thank You, Have a Blessed Day. 👋 **
+**Name:** Yoseph Shimelis Regassa
+
+**Phone:** 0966741303
+
+**Buy Me a Coffee ☕**
+
+**Bank Account:** 1000551726677 (Commercial Bank of Ethiopia)
+
+Thank you! Have a Blessed Day. 👋
