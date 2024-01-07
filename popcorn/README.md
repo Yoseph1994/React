@@ -4,7 +4,7 @@ The Movie Web App is a web application that allows users to search for movies, a
 
 ## Features
 
-- **Movie Search**: Users can search for movies by title, genre, or any other relevant keyword. The app fetches data from the IMDb API to provide accurate and up-to-date movie information.
+- **Movie Search**: Users can search for movies by title. The app fetches data from the IMDb API to provide accurate and up-to-date movie information.
 
 - **Watched List**: Users can add movies to their watched list to keep track of the movies they have already seen. The watched list provides a convenient way to manage and organize the user's movie-watching experience.
 
