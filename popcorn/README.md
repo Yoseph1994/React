@@ -1,12 +1,10 @@
 # Movie Web App
 
-![Movie Web App]()
-
 The Movie Web App is a web application that allows users to search for movies, add them to a watched list, and rate them. It is built using the Vite framework, which provides fast and efficient development for modern web applications.
 
 ## Features
 
-- **Movie Search**: Users can search for movies by title, genre, or any other relevant keyword. The app fetches data from the IMDb API to provide accurate and up-to-date movie information.
+- **Movie Search**: Users can search for movies by title. The app fetches data from the IMDb API to provide accurate and up-to-date movie information.
 
 - **Watched List**: Users can add movies to their watched list to keep track of the movies they have already seen. The watched list provides a convenient way to manage and organize the user's movie-watching experience.
 
@@ -24,7 +22,7 @@ Follow these steps to install and run this Movie Web App:
 
 1. Clone the repository:
 
-   git clone https://github.com/Yoseph1994/popcorn.git
+   git clone https://github.com/Yoseph1994/React/tree/main/popcorn
 
 2. Navigate to the project directory:
     
@@ -42,7 +40,12 @@ Follow these steps to install and run this Movie Web App:
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to submit a pull request.
 
 ## Developer
-*** Yoseph Shimelis Regassa ***
-*** 0966741303 ***
-*** Buy Me a Coffe ☕, *** ** 1000551726677 (Commercial Bank of Ethiopia **
-** Thank You, Have a Blessed Day. 👋 **
+**Name:** Yoseph Shimelis Regassa
+
+**Phone:** 0966741303
+
+**Buy Me a Coffee ☕**
+
+**Bank Account:** 1000551726677 (Commercial Bank of Ethiopia)
+
+Thank you! Have a Blessed Day. 👋
