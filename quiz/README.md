@@ -1,8 +1,5 @@
 # QUIZ WEB APP
 
-## Features
- - **useReducer: 
-
 ## Prerequisites
 
 Before running the Movie Web App, ensure that you have the following prerequisites:
